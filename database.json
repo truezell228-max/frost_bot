@@ -1,0 +1,892 @@
+{
+  "admins": [
+    745880117,
+    8044977598
+  ],
+  "users": {
+    "8044977598": {
+      "id": 8044977598,
+      "username": null,
+      "first_name": "yuke",
+      "last_name": null,
+      "registered_at": "2026-06-25T18:37:37.877518",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "lifetime",
+        "granted_at": "2026-06-25T22:39:01.173763"
+      },
+      "reports_used": 7
+    },
+    "8965243189": {
+      "id": 8965243189,
+      "username": "unnacy",
+      "first_name": "unnacy",
+      "last_name": null,
+      "registered_at": "2026-06-25T22:33:10.791399",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "1d",
+        "granted_by": 8044977598,
+        "granted_at": "2026-06-26T16:40:14.787145",
+        "expires": "2026-06-27T16:40:14.787145"
+      },
+      "reports_used": 1
+    },
+    "745880117": {
+      "id": 745880117,
+      "username": "vkfimovic",
+      "first_name": "fimovic",
+      "last_name": null,
+      "registered_at": "2026-06-25T22:53:58.909257",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "lifetime",
+        "granted_by": 8044977598,
+        "granted_at": "2026-06-26T01:10:04.306475"
+      },
+      "reports_used": 5
+    },
+    "85200906": {
+      "id": 85200906,
+      "username": "orentsocium",
+      "first_name": "хеллоунд",
+      "last_name": null,
+      "registered_at": "2026-06-25T23:16:11.368369",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "5594956560": {
+      "id": 5594956560,
+      "username": "Justflave",
+      "first_name": "Justflave",
+      "last_name": null,
+      "registered_at": "2026-06-25T23:22:57.195823",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 2
+    },
+    "1819331764": {
+      "id": 1819331764,
+      "username": "troliaca",
+      "first_name": "ㅤ",
+      "last_name": null,
+      "registered_at": "2026-06-25T23:27:45.284273",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "6777182735": {
+      "id": 6777182735,
+      "username": "Sashulya145",
+      "first_name": "𖤍♱ᵃᷝᷝᷝᶥᶥu♱𖤍",
+      "last_name": null,
+      "registered_at": "2026-06-25T23:30:52.690360",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "6584813765": {
+      "id": 6584813765,
+      "username": "killtrap",
+      "first_name": "Killtrap",
+      "last_name": null,
+      "registered_at": "2026-06-25T23:42:05.065253",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8577738725": {
+      "id": 8577738725,
+      "username": "qecrime",
+      "first_name": "Melancholia",
+      "last_name": null,
+      "registered_at": "2026-06-26T00:10:38.927164",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8494272467": {
+      "id": 8494272467,
+      "username": "Kes0szva",
+      "first_name": "⊹winksai⊹",
+      "last_name": null,
+      "registered_at": "2026-06-26T00:23:17.523961",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8392848663": {
+      "id": 8392848663,
+      "username": "ojykas",
+      "first_name": "kaspiyskiy#миротворец",
+      "last_name": null,
+      "registered_at": "2026-06-26T01:03:50.990770",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "7904043705": {
+      "id": 7904043705,
+      "username": "polinkoov",
+      "first_name": "поляя",
+      "last_name": null,
+      "registered_at": "2026-06-26T08:52:43.995665",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "2034782052": {
+      "id": 2034782052,
+      "username": "gofpens",
+      "first_name": "🦽 🚓",
+      "last_name": null,
+      "registered_at": "2026-06-26T12:52:07.434595",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8404142358": {
+      "id": 8404142358,
+      "username": "Aleksey_Sheyhov",
+      "first_name": "Алексей Шейхов",
+      "last_name": null,
+      "registered_at": "2026-06-26T12:53:38.107110",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8135229364": {
+      "id": 8135229364,
+      "username": "w1nst0n9",
+      "first_name": "иʍᴨᴇᴩᴀᴛоᴩ ᴡ1ɴsᴛ0ɴ ᴋᴩᴀᴄный",
+      "last_name": null,
+      "registered_at": "2026-06-26T12:53:46.556507",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "1d",
+        "granted_by": 8044977598,
+        "granted_at": "2026-06-26T17:09:53.593655",
+        "expires": "2026-06-27T17:09:53.593655"
+      },
+      "reports_used": 86
+    },
+    "8563189219": {
+      "id": 8563189219,
+      "username": null,
+      "first_name": "NAVI | OSLOEB",
+      "last_name": null,
+      "registered_at": "2026-06-26T12:54:53.557788",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "7d",
+        "activated_by_key": "F1FK-MY51-UK2A",
+        "granted_at": "2026-06-26T13:34:56.641769",
+        "expires": "2026-07-03T13:34:56.641769"
+      },
+      "reports_used": 1
+    },
+    "8716501101": {
+      "id": 8716501101,
+      "username": "bloody_intellectual_heart",
+      "first_name": "🪖 intelligence лихтенштейн 🏴‍☠️",
+      "last_name": null,
+      "registered_at": "2026-06-26T14:07:10.763209",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "lifetime",
+        "granted_by": 8044977598,
+        "granted_at": "2026-06-26T14:20:23.902066"
+      },
+      "reports_used": 0
+    },
+    "8623411144": {
+      "id": 8623411144,
+      "username": "mazzeIov",
+      "first_name": "Мᴀɜᴇᴧᴏʙ",
+      "last_name": null,
+      "registered_at": "2026-06-26T14:25:53.430109",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "1d",
+        "granted_by": 745880117,
+        "granted_at": "2026-06-26T14:26:12.404271",
+        "expires": "2026-06-27T14:26:12.404271"
+      },
+      "reports_used": 1
+    },
+    "8757994480": {
+      "id": 8757994480,
+      "username": "simcolp",
+      "first_name": "simcolp 41 otzivov",
+      "last_name": null,
+      "registered_at": "2026-06-26T14:26:43.517964",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8410757030": {
+      "id": 8410757030,
+      "username": "thr3hat",
+      "first_name": "séducteur kill.ru",
+      "last_name": null,
+      "registered_at": "2026-06-26T14:31:00.116550",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "1d",
+        "activated_by_key": "D95U-K9GX-H79J",
+        "granted_at": "2026-06-26T14:32:25.718169",
+        "expires": "2026-06-27T14:32:25.718169"
+      },
+      "reports_used": 10
+    },
+    "8294485098": {
+      "id": 8294485098,
+      "username": "rumelodist",
+      "first_name": "lol",
+      "last_name": null,
+      "registered_at": "2026-06-26T14:48:43.591046",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8124283820": {
+      "id": 8124283820,
+      "username": "smetankoooooo",
+      "first_name": "sɴ ᴛᴇнᴇʙᴀя ᴄʍᴇᴛᴀнᴀ ᴋᴘ/ᴄs",
+      "last_name": null,
+      "registered_at": "2026-06-26T15:40:34.736700",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    },
+    "8742609528": {
+      "id": 8742609528,
+      "username": "createdepressed",
+      "first_name": "#депрессивный",
+      "last_name": "#насисьник",
+      "registered_at": "2026-06-26T17:07:39.428335",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": {
+        "active": true,
+        "type": "7d",
+        "activated_by_key": "5KBE-2Z2U-2H1P",
+        "granted_at": "2026-06-26T17:11:07.430552",
+        "expires": "2026-07-03T17:11:07.430552"
+      },
+      "reports_used": 1
+    },
+    "8623036521": {
+      "id": 8623036521,
+      "username": "txtswatting",
+      "first_name": "truecrime",
+      "last_name": null,
+      "registered_at": "2026-06-26T17:37:44.573860",
+      "banned": false,
+      "ban_reason": null,
+      "subscription": null,
+      "reports_used": 0
+    }
+  },
+  "keys": {
+    "S66G-8RNN-AC5R": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": 8044977598,
+      "used_at": "2026-06-25T18:41:35.435742"
+    },
+    "G69I-T49E-QX3C": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": null,
+      "used_at": null
+    },
+    "BG5J-N738-Y4WV": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": null,
+      "used_at": null
+    },
+    "N7P7-3PTS-0P6E": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": null,
+      "used_at": null
+    },
+    "2ZM2-BS2S-F9HL": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": null,
+      "used_at": null
+    },
+    "BE24-OQ1Q-71FX": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.232882",
+      "used_by": null,
+      "used_at": null
+    },
+    "ZET1-JSCA-GXNR": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.233638",
+      "used_by": null,
+      "used_at": null
+    },
+    "TORB-C0OY-UXZF": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.233638",
+      "used_by": null,
+      "used_at": null
+    },
+    "PEY3-GZ3Z-U70G": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.233638",
+      "used_by": null,
+      "used_at": null
+    },
+    "HFJC-KP1S-YJ91": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:41:19.233638",
+      "used_by": null,
+      "used_at": null
+    },
+    "K7OJ-OU00-887B": {
+      "days": 1,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:45:13.002348",
+      "used_by": null,
+      "used_at": null
+    },
+    "6INZ-OQ8S-6UIY": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.126904",
+      "used_by": null,
+      "used_at": null
+    },
+    "YFAA-09T3-FKHZ": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.126904",
+      "used_by": null,
+      "used_at": null
+    },
+    "AZ0S-KFCJ-TXDG": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.126904",
+      "used_by": null,
+      "used_at": null
+    },
+    "X95R-FTRJ-Z43N": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.126904",
+      "used_by": null,
+      "used_at": null
+    },
+    "GNVN-C5I3-2G6B": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "TP4Q-4LDP-X0KL": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "MUKW-1PPB-JU77": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "J758-1FYY-T16R": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "PXD7-CWRO-QPTO": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "IUGM-K1YG-C3LB": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "DUFY-E2BQ-5TWG": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "7NZ0-M0IC-J5DY": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "OE11-792R-5WPL": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "96P0-63I7-19UC": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "VGSK-S1A5-O83G": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "C0S0-5CCB-2LQV": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "B99A-NS3K-JKQ8": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "5V5A-LYPD-PZAZ": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "DREY-T966-K7H4": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "J2RG-UFKM-LN5H": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "3MJ3-AP9V-9W7Y": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "GO6P-WUF0-M2R6": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "TBCW-3G0X-02OO": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "9PNB-8JHO-RYC7": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "MV5R-97I2-VQAW": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "9MKR-BTAB-39YH": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.127591",
+      "used_by": null,
+      "used_at": null
+    },
+    "X2XK-08JT-4LS6": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128588",
+      "used_by": null,
+      "used_at": null
+    },
+    "QA23-J8DS-D4N2": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128588",
+      "used_by": null,
+      "used_at": null
+    },
+    "HT5K-6ORF-IAGP": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128588",
+      "used_by": null,
+      "used_at": null
+    },
+    "23WY-PB4D-TPRD": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "Z57I-6UGZ-ZPC1": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "Y029-6187-QK82": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "8GGN-JNGO-R63Q": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "G8CB-C3RJ-5WB4": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "WU92-P9FI-ZG9W": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "VCSB-YNG4-HU52": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "6S4L-J6DE-VGB6": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "V9UE-GBQR-ELZU": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "IT0G-4S6Q-J9YD": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "YZIC-PBMH-OSS2": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "WJ7Y-E1IX-3A8S": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "XMD1-6GSG-RHHM": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "7KPT-JH8T-1865": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "FN89-AX5W-XEWT": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "3D7Z-3F1Q-Q62M": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "A7HU-ST4U-0TM9": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.128725",
+      "used_by": null,
+      "used_at": null
+    },
+    "G53K-H4PJ-9XP9": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.129587",
+      "used_by": null,
+      "used_at": null
+    },
+    "QDKT-WOIJ-F2MY": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.129587",
+      "used_by": null,
+      "used_at": null
+    },
+    "SLHY-G861-FKRZ": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.129587",
+      "used_by": null,
+      "used_at": null
+    },
+    "O8ED-61P8-41R5": {
+      "days": 30,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T18:59:22.129587",
+      "used_by": null,
+      "used_at": null
+    },
+    "V9R9-NKA8-738R": {
+      "days": 1,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T22:32:22.069422",
+      "used_by": null,
+      "used_at": null
+    },
+    "E9HI-IIWV-2811": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T22:38:54.024294",
+      "used_by": 8044977598,
+      "used_at": "2026-06-25T22:39:01.173763"
+    },
+    "QJKX-93FX-YF5B": {
+      "days": 1,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T22:56:36.635591",
+      "used_by": 745880117,
+      "used_at": "2026-06-25T22:57:02.430846"
+    },
+    "W5D3-M6C2-ELUI": {
+      "days": 1,
+      "created_by": 8044977598,
+      "created_at": "2026-06-25T23:17:54.583634",
+      "used_by": 5594956560,
+      "used_at": "2026-06-25T23:23:16.155112"
+    },
+    "F1FK-MY51-UK2A": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-26T13:03:14.668862",
+      "used_by": 8563189219,
+      "used_at": "2026-06-26T13:34:56.641769"
+    },
+    "5KBE-2Z2U-2H1P": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-26T13:03:14.668862",
+      "used_by": 8742609528,
+      "used_at": "2026-06-26T17:11:07.430552"
+    },
+    "3USW-IXWO-9D28": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-26T13:03:14.668862",
+      "used_by": null,
+      "used_at": null
+    },
+    "A5FS-VEHR-9GVH": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-26T13:03:14.668862",
+      "used_by": null,
+      "used_at": null
+    },
+    "CWIF-KBYV-CM7L": {
+      "days": 7,
+      "created_by": 8044977598,
+      "created_at": "2026-06-26T13:03:14.668862",
+      "used_by": null,
+      "used_at": null
+    },
+    "D95U-K9GX-H79J": {
+      "days": 1,
+      "created_by": 745880117,
+      "created_at": "2026-06-26T14:31:55.050647",
+      "used_by": 8410757030,
+      "used_at": "2026-06-26T14:32:25.718169"
+    }
+  },
+  "prices": {
+    "1 день": 1,
+    "7 дней": 5,
+    "30 дней": 15,
+    "Навсегда": 30
+  },
+  "pending_payments": {
+    "55036612": {
+      "user_id": 745880117,
+      "days": 1,
+      "amount": "1",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-25T23:53:16.813236",
+      "paid_at": null
+    },
+    "55036615": {
+      "user_id": 8044977598,
+      "days": 1,
+      "amount": "1",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-25T23:53:18.138968",
+      "paid_at": null
+    },
+    "55037961": {
+      "user_id": 8044977598,
+      "days": 0,
+      "amount": "30",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-26T00:11:20.153643",
+      "paid_at": null
+    },
+    "55040041": {
+      "user_id": 8577738725,
+      "days": 1,
+      "amount": "1",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-26T00:44:14.342170",
+      "paid_at": null
+    },
+    "55040600": {
+      "user_id": 8965243189,
+      "days": 7,
+      "amount": "5",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-26T00:52:39.318101",
+      "paid_at": null
+    },
+    "55075967": {
+      "user_id": 8135229364,
+      "days": 0,
+      "amount": "30",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-26T13:31:16.293936",
+      "paid_at": null
+    },
+    "55081192": {
+      "user_id": 8965243189,
+      "days": 1,
+      "amount": "1",
+      "asset": "USDT",
+      "status": "active",
+      "created_at": "2026-06-26T14:39:08.383063",
+      "paid_at": null
+    }
+  }
+}
